@@ -1,6 +1,6 @@
 # PersonalPortfolio
 
-[<img align = right height = 50 width = 50 src = "https://www.vhv.rs/dpng/d/451-4511009_cool-chrome-transparent-custom-google-chrome-logo-hd.png">](https://mvpfportfolio.herokuapp.com/)
+[<img align = right height = 50 width = 50 src = "https://www.vhv.rs/dpng/d/451-4511009_cool-chrome-transparent-custom-google-chrome-logo-hd.png">](https://meetvportfolio.herokuapp.com/)
 
 [<img align = right height = 50 width = 50 src = "https://edent.github.io/SuperTinyIcons/images/svg/github.svg">](https://github.com/mv1249/PersonalPortfolio)
 
@@ -50,5 +50,5 @@ than that,so here is an overview of how the templates are set and how the raw ht
 ## DEPLOYMENT
 
 #### This website is deployed at <code><img height="30" src="https://image.flaticon.com/icons/png/512/873/873120.png"></code>
-#### You can access it [here](https://mvpfportfolio.herokuapp.com/)
+#### You can access it [here](https://meetvportfolio.herokuapp.com/)
 #### Note: The website may take a minute to load sometimes, as the server may be in hibernate state
